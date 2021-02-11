@@ -1,0 +1,38 @@
+
+h1{
+    color:#0000F1;
+}
+
+*{
+    border:solid;
+} 
+
+.header{
+    background-color: #71F1C0;
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color:#000000
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #a02121;
+}
+
